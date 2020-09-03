@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aplicatie2</string>
+    <string name="signin">Sign In</string>
+    <string name="signout">Sign Out</string>
+    <string name="onSignInClickedButton">onSignInClickedButton</string>
+    <string name="onsignout">onSignOut</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="Register">Register</string>
+    <string name="HELLLO">Welcome</string>
+    <string name="registerClicked">registerClicked</string>
+    <string name="loginClicked">loginClicked</string>
+    <string name="nume">Name</string>
+    <string name="Team">Team</string>
+    <string name="name">Name</string>
+    <string name="BLR">BattleLab Robotica</string>
+</resources>
